@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: {
     template: 'Sepekaa | %s',
-    default: 'Sepekaa Official Page'
+    default: 'Sepekaa'
   },
   description: 'Welcome to Sepekaa official website. Here we can introduce who we are and tell you what technologies we have studied for 3 years at Vocational High School 2 Bangkalan, majoring in software engineering.',
   creator: 'cnsl-lg',
