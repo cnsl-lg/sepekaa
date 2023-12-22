@@ -24,7 +24,7 @@ export default function socialsPage() {
         </section>
         <section className='flex flex-col justify-between gap-4 mt-12 md:flex-row'>
           {socials.map((social, i) => (
-            <a href={social.link} target='_blank' className='block flex-1'>
+            <a href={social.link} target='_blank' className='block flex-1' key={i}>
               <Card key={i}>
                 <CardHeader>
                   <figure className='flex items-center gap-x-4'>
