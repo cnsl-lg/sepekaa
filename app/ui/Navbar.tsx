@@ -66,9 +66,9 @@ export default function Navbar() {
               </DropdownMenuContent>
             </DropdownMenu>
           </div>
-          <div className="flex items-center gap-x-2">
+          <div className="flex items-center gap-x-2 lg:bg-slate-200 hover:bg-slate-300 transition-colors lg:py-2 lg:px-4 lg:rounded-xl">
             <FaGithub className='text-lg' />
-            <Link href={''} target='_blank' className='hidden lg:block'>Available on GitHub</Link>
+            <Link href={'https://github.com/cnsl-naveila/sepekaa'} target='_blank' className='hidden lg:block'>Available on GitHub</Link>
           </div>
         </div>
       </nav>
