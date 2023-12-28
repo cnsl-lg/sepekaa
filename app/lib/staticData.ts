@@ -80,7 +80,7 @@ export const students: Student[] = [
   },
   {
     name: 'Ahmad Faidil Fikri',
-    photo: '/members/AHMAD-FAIDIL-FIKRI.jpg',
+    photo: '/members/AHMAD-FAIDIL-FIKRI.JPG',
     gender: 'male',
     birth: '05-01-2006',
     address: 'Jl. Raya jambu',
