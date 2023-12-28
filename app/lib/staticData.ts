@@ -70,7 +70,7 @@ export const techs: Techs[] = [
 export const students: Student[] = [
   {
     name: 'Afrizal Maulana',
-    photo: '/members/AFRIZAL-MAULANA.JPG',
+    photo: '/members/AFRIZAL-MAULANA.jpg',
     gender: 'male',
     birth: '06-04-2006',
     address: 'Jl. Pertempuran',
@@ -80,7 +80,7 @@ export const students: Student[] = [
   },
   {
     name: 'Ahmad Faidil Fikri',
-    photo: '/members/AHMAD-FAIDIL-FIKRI.JPG',
+    photo: '/members/AHMAD-FAIDIL-FIKRI.jpg',
     gender: 'male',
     birth: '05-01-2006',
     address: 'Jl. Raya jambu',
@@ -90,7 +90,7 @@ export const students: Student[] = [
   },
   {
     name: 'Aisyah',
-    photo: '/members/AISYAH.JPG',
+    photo: '/members/AISYAH.jpg',
     gender: 'female',
     birth: '17-02-2006',
     address: 'Jl. Kemuning',
@@ -100,7 +100,7 @@ export const students: Student[] = [
   },
   {
     name: 'Ali Ridho',
-    photo: '/members/ALI-RIDHO.JPG',
+    photo: '/members/ALI-RIDHO.jpg',
     gender: 'male',
     birth: '15-05-2005',
     address: 'Jl. KH. Moh Yasin No. 55',
@@ -110,7 +110,7 @@ export const students: Student[] = [
   },
   {
     name: 'Andika bayu saputro',
-    photo: '/members/ANDIKA-BAYU-S.JPG',
+    photo: '/members/ANDIKA-BAYU-S.jpg',
     gender: 'male',
     birth: '05-10-2005',
     address: 'Jl. Raya Ketengan',
@@ -120,7 +120,7 @@ export const students: Student[] = [
   },
   {
     name: 'Anugerah Fitria Aswah',
-    photo: '/members/ANUGERAH-FITRIA-A.JPG',
+    photo: '/members/ANUGERAH-FITRIA-A.jpg',
     gender: 'female',
     birth: '25-11-2005',
     address: 'Jl. Pesalakan No. 25',
@@ -130,7 +130,7 @@ export const students: Student[] = [
   },
   {
     name: 'Evan Rafa Radya Alifian',
-    photo: '/members/EVAN-RAFA-RADYA-A.JPG',
+    photo: '/members/EVAN-RAFA-RADYA-A.jpg',
     gender: 'male',
     birth: '19-10-2005',
     address: 'Jl. Nangka 6, No. 21',
@@ -140,7 +140,7 @@ export const students: Student[] = [
   },
   {
     name: 'Farhanuddin',
-    photo: '/members/FARHANUDDIN.JPG',
+    photo: '/members/FARHANUDDIN.jpg',
     gender: 'male',
     birth: '19-10-2005',
     address: 'Jl. Raya Terageh',
@@ -150,7 +150,7 @@ export const students: Student[] = [
   },
   {
     name: 'Firda Rahayu',
-    photo: '/members/FIRDA-RAHAYU.JPG',
+    photo: '/members/FIRDA-RAHAYU.jpg',
     gender: 'female',
     birth: '10-05-2006',
     address: 'Jl. Kemuning No. 41, Sumur Kembang, Bangkalan',
@@ -160,7 +160,7 @@ export const students: Student[] = [
   },
   {
     name: 'Halimatus Sakdiah',
-    photo: '/members/HALIMATUS-S.JPG',
+    photo: '/members/HALIMATUS-S.jpg',
     gender: 'female',
     birth: '26-12-2006',
     address: 'Jl. Raya Petemon Dsn.Poter Burguh',
@@ -170,7 +170,7 @@ export const students: Student[] = [
   },
   {
     name: 'Hani Dwi Yulinda Putri',
-    photo: '/members/HANI-DWI-Y-P.JPG',
+    photo: '/members/HANI-DWI-Y-P.jpg',
     gender: 'female',
     birth: '20-06-2006',
     address: 'Jl. Maritim No. 142',
@@ -180,7 +180,7 @@ export const students: Student[] = [
   },
   {
     name: 'Indra Wahyudi',
-    photo: '/members/INDRA-WAHYUDI.JPG',
+    photo: '/members/INDRA-WAHYUDI.jpg',
     gender: 'male',
     birth: '11-09-2005',
     address: 'Jl. Tunjung',
@@ -190,7 +190,7 @@ export const students: Student[] = [
   },
   {
     name: 'Khairil Anwar',
-    photo: '/members/KHAIRIL-ANWAR.JPG',
+    photo: '/members/KHAIRIL-ANWAR.jpg',
     gender: 'male',
     birth: '07-11-2005',
     address: 'Jl. Raya Jambu',
@@ -200,7 +200,7 @@ export const students: Student[] = [
   },
   {
     name: 'Lailatul Rohmah',
-    photo: '/members/LAILATUR-ROHMAH.JPG',
+    photo: '/members/LAILATUR-ROHMAH.jpg',
     gender: 'female',
     birth: '27-09-2005',
     address: '',
@@ -210,7 +210,7 @@ export const students: Student[] = [
   },
   {
     name: 'M. Afif. Za',
-    photo: '/members/M-AFIF-ZA.JPG',
+    photo: '/members/M-AFIF-ZA.jpg',
     gender: 'male',
     birth: '03-05-2005',
     address: 'Kecamatan Arosbaya Dsn. Perrengan',
@@ -220,7 +220,7 @@ export const students: Student[] = [
   },
   {
     name: 'Maulana Malik Ibrahim',
-    photo: '/members/MAULANA-MALIK-IBRAHIM.JPG',
+    photo: '/members/MAULANA-MALIK-IBRAHIM.jpg',
     gender: 'male',
     birth: '25-02-2006',
     address: 'Jl. Pettong',
@@ -230,7 +230,7 @@ export const students: Student[] = [
   },
   {
     name: 'Maylisa Rosiana Eka Putri',
-    photo: '/members/MAYLISA-ROSIANA-EKA-P.JPG',
+    photo: '/members/MAYLISA-ROSIANA-EKA-P.jpg',
     gender: 'female',
     birth: '17-05-2005',
     address: 'Jl. Veteran',
@@ -240,7 +240,7 @@ export const students: Student[] = [
   },
   {
     name: 'Moch. Hilal',
-    photo: '/members/MOCH-HILAL.JPG',
+    photo: '/members/MOCH-HILAL.jpg',
     gender: 'male',
     birth: '18-11-2005',
     address: 'Galis',
@@ -250,7 +250,7 @@ export const students: Student[] = [
   },
   {
     name: 'Moch. Mahfud Alqomi',
-    photo: '/members/MOCH-MAHFUD.JPG',
+    photo: '/members/MOCH-MAHFUD.jpg',
     gender: 'male',
     birth: '01-04-2006',
     address: 'Jl. Bai pajung',
@@ -260,7 +260,7 @@ export const students: Student[] = [
   },
   {
     name: 'Musrifah',
-    photo: '/members/MUSRIFAH.JPG',
+    photo: '/members/MUSRIFAH.jpg',
     gender: 'female',
     birth: '24-11-2005',
     address: 'Jl. Naro\'an Tunjung',
